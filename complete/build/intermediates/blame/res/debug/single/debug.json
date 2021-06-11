@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\xml_watch_face.xml.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\xml\\watch_face.xml"
+    },
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_preview_background_image.png.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\drawable-nodpi\\preview_background_image.png"
+    },
+    {
+        "merged": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_background_image.png.flat",
+        "source": "D:\\developer\\testcode\\watchface-kotlin-master\\complete\\src\\main\\res\\drawable-nodpi\\background_image.png"
+    }
+]

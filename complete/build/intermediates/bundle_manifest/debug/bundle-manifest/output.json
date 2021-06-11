@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.example.android.watchface.watchfacekotlin",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 10002,
+        "versionName": "1.0.2",
+        "outputFile": "complete-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.example.android.watchface.watchfacekotlin",
+        "split": "",
+        "minSdkVersion": "23"
+      }
+    }
+  ]
+}

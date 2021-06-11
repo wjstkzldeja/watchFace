@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4252611216229e4e4e0c854ed77f2265\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4edcb131d124acb2e7c087046ab76f42\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\eb9bf7c58d465993adc8ae5ce2d4f677\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a9879664f9527f7d627f4d847bcac3ea\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ddc4d5d5d8ba7442d59e0399238a2056\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\89eca425e2e8e8ecebb64cc0ffd67a5c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1c566aadd144cf80c755516ce975c93d\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+	package
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:19:5-60
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:1-63:12
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:18:11-69
+uses-feature#android.hardware.type.watch
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:21:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:25:5-104
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:25:22-101
+application
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:27:5-61:19
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4252611216229e4e4e0c854ed77f2265\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4252611216229e4e4e0c854ed77f2265\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ddc4d5d5d8ba7442d59e0399238a2056\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ddc4d5d5d8ba7442d59e0399238a2056\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ddc4d5d5d8ba7442d59e0399238a2056\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:32:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:33:9-35:36
+	android:value
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:34:13-66
+service#com.example.android.watchface.watchfacekotlin.AnalogDslWatchFace
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:37:9-56:19
+	android:label
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:39:13-51
+	android:permission
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:40:13-67
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:38:13-47
+meta-data#android.service.wallpaper
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:41:13-43:54
+	android:resource
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:43:17-51
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:42:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:44:13-46:65
+	android:resource
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:46:17-62
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:45:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:47:13-49:65
+	android:resource
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:49:17-62
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:48:17-86
+intent-filter#action:name:android.service.wallpaper.WallpaperService+category:name:com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:51:13-55:29
+action#android.service.wallpaper.WallpaperService
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:52:17-85
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:52:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:54:17-102
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:54:27-99
+meta-data#com.google.android.gms.version
+ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:58:9-60:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml:59:13-58
+uses-sdk
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4252611216229e4e4e0c854ed77f2265\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4252611216229e4e4e0c854ed77f2265\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4edcb131d124acb2e7c087046ab76f42\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4edcb131d124acb2e7c087046ab76f42\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\eb9bf7c58d465993adc8ae5ce2d4f677\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\eb9bf7c58d465993adc8ae5ce2d4f677\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a9879664f9527f7d627f4d847bcac3ea\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a9879664f9527f7d627f4d847bcac3ea\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ddc4d5d5d8ba7442d59e0399238a2056\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ddc4d5d5d8ba7442d59e0399238a2056\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\89eca425e2e8e8ecebb64cc0ffd67a5c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\89eca425e2e8e8ecebb64cc0ffd67a5c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1c566aadd144cf80c755516ce975c93d\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\1c566aadd144cf80c755516ce975c93d\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\b77732ae052c8a7beadaefc4f5cc2d1b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\cfdba3a9d264c21140cf4b27a073b375\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\ef7f8b788d30752a01fb2308ec81e29a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		ADDED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+		INJECTED from D:\developer\testcode\watchface-kotlin-master\complete\src\main\AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.7.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\36fe5bbf8ccdd7959b3bf4fd9ec06f10\jetified-wearable-2.7.0\AndroidManifest.xml:11:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olivestone\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
