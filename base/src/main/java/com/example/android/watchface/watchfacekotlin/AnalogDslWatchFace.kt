@@ -26,12 +26,33 @@ import com.example.android.watchface.watchfacekotlin.service.analogWatchFaceStyl
  */
 class AnalogDslWatchFace : AbstractKotlinWatchFace() {
 
-    override fun getWatchFaceStyle(): AnalogWatchFaceStyle {
+  override fun getWatchFaceStyle(): AnalogWatchFaceStyle {
 
-        /**
-         * Initializes colors and dimensions of watch face. Review [AnalogWatchFaceStyle] for
-         * detailed explanation of each field.
-         */
-        return analogWatchFaceStyle { }
+    /**
+     * Initializes colors and dimensions of watch face. Review [AnalogWatchFaceStyle] for
+     * detailed explanation of each field.
+     */
+    return analogWatchFaceStyle {
+      /** 배경, 시분, 초 색상*/
+      watchFaceColors {
+        main = Color.GREEN
+        highlight = Color.BLACK
+        background = Color.WHITE
+      }
+      /** 시,분,초 길이*/
+      watchFaceDimensions {
+        /*  hourHandRadiusRatio = 0.2f
+          minuteHandRadiusRatio = 0.5f
+          secondHandRadiusRatio = 0.9f*/
+        hourHandRadiusRatio = 0.9f
+        minuteHandRadiusRatio = 0.9f
+        secondHandRadiusRatio = 0.9f
+      }
+
+      /** 백그라운드 이미지*/
+      watchFaceBackgroundImage {
+        backgroundImageResource = R.drawable.background_image
+      }
     }
+  }
 }
